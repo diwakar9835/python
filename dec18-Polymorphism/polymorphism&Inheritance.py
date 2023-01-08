@@ -1,6 +1,5 @@
 # polymorphism with Inheritance
 class Bird:
-  
   def intro(self):
     print("Hi this is bird class")
   def flight(self):
